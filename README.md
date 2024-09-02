@@ -32,7 +32,7 @@ As políticas de meia-entrada devem ser aplicadas separadamente para cada item d
 Este projeto foi desenvolvido utilizando a JDK 22 da Oracle. Certifique-se de que a mesma versão da JDK esteja instalada em sua máquina para evitar problemas de compatibilidade.
 
 - **JDK:** Oracle JDK 22
-- **IDE** IntelliJ IDEA e Apache NetBeans
+- **IDEs:** IntelliJ IDEA e Apache NetBeans
 
 ## Contribuição
 
