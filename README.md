@@ -14,6 +14,19 @@ Este repositório contém o código fonte do CineCIC, dividido nas seguintes fas
 3. **Telas e Implementação das Classes:** Desenvolvimento da interface gráfica usando Java Swing e implementação do backend em Java.
 4. **Apresentação das Telas e das Classes:** Demonstração do funcionamento do sistema, destacando a integração entre a interface gráfica e a lógica de negócios.
 
+## Regras de Negócio
+
+O sistema CineCIC deve respeitar as seguintes regras de negócio estabelecidas pela CineMAX:
+
+1. **Horário de Funcionamento:**
+   - Os cinemas do CineMAX operam das 12h às 22h. Portanto, o cadastro de sessões deve ocorrer exclusivamente dentro desse intervalo de tempo.
+
+2. **Desconto em Horários Especiais:**
+   - Devido à queda nas vendas entre 12h e 15h, há um desconto de 25% aplicado a ingressos de sessões que se iniciam nesse intervalo.
+
+3. **Política de Meia-Entrada:**
+   - As políticas de meia-entrada devem ser aplicadas separadamente para cada item do pedido. A verificação dos critérios legais para meia-entrada será realizada na entrada das sessões, não sendo parte do escopo do CineCIC.
+
 ## Contribuição
 
 Esse projeto foi desenvolvido pelo grupo 14 na turma 3 da disciplina Técnicas de Programação 1 no semestre 2024.1. As contribuições foram feitas por todos os membros do grupo como parte do processo de aprendizado e desenvolvimento prático.
