@@ -27,6 +27,13 @@ Devido à queda nas vendas entre 12h e 15h, há um desconto de 25% aplicado a in
 3. **Política de Meia-Entrada:**
 As políticas de meia-entrada devem ser aplicadas separadamente para cada item do pedido. A verificação dos critérios legais para meia-entrada será realizada na entrada das sessões, não sendo parte do escopo do CineCIC.
 
+## Ambiente de Desenvolvimento
+
+Este projeto foi desenvolvido utilizando a JDK 22 da Oracle. Certifique-se de que a mesma versão da JDK esteja instalada em sua máquina para evitar problemas de compatibilidade.
+
+- **JDK:** Oracle JDK 22
+- **IDE** IntelliJ IDEA e Apache NetBeans
+
 ## Contribuição
 
 Esse projeto foi desenvolvido pelo grupo 14 na turma 3 da disciplina Técnicas de Programação 1 no semestre 2024.1. As contribuições foram feitas por todos os membros do grupo como parte do processo de aprendizado e desenvolvimento prático.
