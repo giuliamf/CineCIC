@@ -18,7 +18,6 @@ public class Cliente extends Usuario{
         try (BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("Interface/Dados/dadosClientes.csv"), StandardCharsets.UTF_8))) {
             int max = 0;
             String linha;
-            br.readLine(); // Pular cabeçalho
             while ((linha = br.readLine()) != null) {
                 String[] c = linha.split(";");
                 if (Integer.parseInt(c[0]) > max) {
