@@ -240,8 +240,8 @@ public class GerenciaSessao {
             if (eh3D && sala.isEhVip()) {    // se é 3d e vip = 51,00
                 valor = 51.00f;
             }
-            else if (eh3D) { // se é apenas 3d = 31,50
-                valor = 31.50f;
+            else if (eh3D) { // se é apenas 3d = 32,00
+                valor = 32.00f;
             }
             else if (sala.isEhVip()) {  // se é apenas vip = 46,00
                 valor = 46.00f;
